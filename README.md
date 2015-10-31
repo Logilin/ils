@@ -8,11 +8,11 @@ Pour tout renseignement voir http://www.logilin.fr
 
 Version à jour sur https://github.com/Logilin/ils/
 
-1 - Outils et méthodes de développement.
-2 - Déroulement des processus.
-3 - Programmer avec les threads Posix.1b.
-4 - Gestion de la mémoire.
-5 - Communications entre processus.
-6 - Programmation réseau sous Linux.
-7 - Entrées sorties.
+* Outils et méthodes de développement.
+* Déroulement des processus.
+* Programmer avec les threads Posix.1b.
+* Gestion de la mémoire.
+* Communications entre processus.
+* Programmation réseau sous Linux.
+* Entrées sorties.
 
