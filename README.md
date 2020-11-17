@@ -1,6 +1,6 @@
 ils
 ===
-(c) Christophe BLAESS 2001-2015
+(c) Christophe BLAESS 2001-2020
 
 Exemples de notre cours _"Développement système sous Linux"_
 
